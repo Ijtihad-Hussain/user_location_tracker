@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "758341300469",
+    "project_id": "location-tracker-1b00a",
+    "storage_bucket": "location-tracker-1b00a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758341300469:android:3c46996c8692471c4b95bc",
+        "android_client_info": {
+          "package_name": "com.example.user_location_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758341300469-quad07hvdaiscci1cc21qoh10gjf4res.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT3iHAiMhxhiPVhfbSg6ejIYJfRoKldkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758341300469-quad07hvdaiscci1cc21qoh10gjf4res.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758341300469-kqveaotom99pg2k83ebjpe2ragvo0d82.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ijtihad.trackingUserLocation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758341300469:android:44ed84137ca789b14b95bc",
+        "android_client_info": {
+          "package_name": "com.ijtihad.location_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758341300469-quad07hvdaiscci1cc21qoh10gjf4res.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT3iHAiMhxhiPVhfbSg6ejIYJfRoKldkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758341300469-quad07hvdaiscci1cc21qoh10gjf4res.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758341300469-kqveaotom99pg2k83ebjpe2ragvo0d82.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ijtihad.trackingUserLocation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758341300469:android:9ddd731ed0e1250b4b95bc",
+        "android_client_info": {
+          "package_name": "com.ijtihad.tracking_user_location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758341300469-quad07hvdaiscci1cc21qoh10gjf4res.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT3iHAiMhxhiPVhfbSg6ejIYJfRoKldkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758341300469-quad07hvdaiscci1cc21qoh10gjf4res.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758341300469-kqveaotom99pg2k83ebjpe2ragvo0d82.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ijtihad.trackingUserLocation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758341300469:android:82bdc20aa39d928e4b95bc",
+        "android_client_info": {
+          "package_name": "com.ijtihadhussain.tracking_location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758341300469-quad07hvdaiscci1cc21qoh10gjf4res.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT3iHAiMhxhiPVhfbSg6ejIYJfRoKldkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758341300469-quad07hvdaiscci1cc21qoh10gjf4res.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758341300469-kqveaotom99pg2k83ebjpe2ragvo0d82.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ijtihad.trackingUserLocation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

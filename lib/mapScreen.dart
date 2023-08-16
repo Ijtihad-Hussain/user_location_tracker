@@ -31,11 +31,6 @@ class _MapScreenState extends State<MapScreen> {
     });
   }
 
-
-  void _configureBackgroundFetch() {
-    // This method remains empty as we are using Timer for updates
-  }
-
   void _backgroundFetchCallback(String taskId) async {
     print('[BackgroundFetch] Event received: $taskId');
 
@@ -50,9 +45,6 @@ class _MapScreenState extends State<MapScreen> {
   }
 
   bool _hasUserArrived() {
-    // Implement your logic to check if the user has arrived
-    // For example, calculate the distance to the destination
-    // Return true if the user is within the desired range, false otherwise
     return false;
   }
 
@@ -63,18 +55,15 @@ class _MapScreenState extends State<MapScreen> {
   }
 
   void _stopIntervalCalculation() {
-    // Implement the logic to stop the interval calculation
-    // For example, you might cancel a timer or reset flags
     print('Interval calculation stopped.');
   }
 
   Future<void> _addCircle() async {
     setState(() {
-      // Add circle around the destination (example coordinates)
       _circles.add(
         Circle(
-          circleId: CircleId('destination_circle'),
-          center: LatLng(37.7749, -122.4194), // Replace with your destination coordinates
+          circleId: const CircleId('destination_circle'),
+          center: const LatLng(37.7749, -122.4194), // Replace with your destination coordinates
           radius: 5000, // Radius in meters
           strokeWidth: 2,
           strokeColor: Colors.blue,
@@ -139,7 +128,7 @@ class _MapScreenState extends State<MapScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Center(child: Text('Map Screen')),
+        title: const Center(child: Text('Location Tracker')),
       ),
       body: Column(
         children: [
